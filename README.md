@@ -1,4 +1,4 @@
 # apnacollege-demo
-This si my first Git Repository.
+This is my first Git Repository.
 <br>
 Author - Sabir Raja
